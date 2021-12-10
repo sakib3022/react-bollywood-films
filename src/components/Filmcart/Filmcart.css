@@ -1,0 +1,13 @@
+.display{
+    background-image: linear-gradient(to right,rgb(74, 130, 163),rgb(81, 198, 202));
+    display: flex;
+    margin: 10px;
+    
+}
+.display img{
+    width: 30%;
+    height: 10%;
+    margin-right: 50px;
+}
+
+

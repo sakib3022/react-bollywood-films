@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "Tanhaji",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/Tanaji_film_poster.jpg",
+        "Production": "T-Series",
+        "Publised": "2020",
+        "Distributor": "AA Films",
+        "Cost": 49000000
+    },
+    {
+        "id": 2,
+        "name": "Baaghi 3",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Baaghi_3_Film_Poster.jpg",
+        "Production": "T-Series",
+        "Publised": "2020",
+        "Distributor": "Fox Star",
+        "Cost": 18000000
+    },
+    {
+        "id": 3,
+        "name": "Malang",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Malang_film_poster.jpg",
+        "Production": "T-series",
+        "Published": "2020",
+        "Distributor": "Raj Films",
+        "Cost": 11000000
+    },
+    {
+        "id": 4,
+        "name": "panga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Panga_film_poster.jpg",
+        "Production": "Fox Star",
+        "Published": "2020",
+        "Distributor": "Fox Star",
+        "Cost": 41710000
+    },
+    {
+        "id": 5,
+        "name": "War",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/War_official_poster.jpg",
+        "Production": "Yash Raj",
+        "Publised": "2019",
+        "Distributor": "AA Films",
+        "Cost": 63000000
+    },
+    {
+        "id": 6,
+        "name": "Kabir Singh",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Kabir_Singh.jpg",
+        "Production": "T-Series",
+        "Publised": "AA Films",
+        "Distributor": "AA Films",
+        "Cost": 50000000
+    },
+    {
+        "id": 7,
+        "name": "Good Newwz",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Good_Newwz_film_poster.jpg",
+        "Production": "Dharma",
+        "Publised": "2019",
+        "Distributor": "Zee Studios",
+        "Cost": 42000000
+    },
+    {
+        "id": 8,
+        "name": "Dabangg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Dabangg_3_poster.jpg",
+        "Production": "Salman Khan",
+        "Publised": "2019",
+        "Distributor": "Salman Khan",
+        "Cost": 31000000
+    },
+    {
+        "id": 9,
+        "name": "Secret SuperStar",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Secret_Superstar_-_Poster_3.jpg",
+        "Production": "Yash Raj",
+        "Published": "2017",
+        "Distributor": "Yash Raj",
+        "Cost": 154000000
+    },
+    {
+        "id": 10,
+        "name": "Tiger Zinda Hai",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Tiger_Zinda_Hai_poster.jpg",
+        "Production": "Yash Raj",
+        "Published": "2017",
+        "Distributor": "Aamir khan",
+        "Cost": 87320000
+    },
+    {
+        "id": 11,
+        "name": "Bajrangi Bhaijan",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/Bajrangi_Bhaijaan_Poster.jpg",
+        "Production": "T-series",
+        "Publised": "2015",
+        "Distributor": "T-series",
+        "Cost": 141000000
+    },
+    {
+        "id": 12,
+        "name": "Piku",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Piku.jpg",
+        "Production": "Yash Raj",
+        "Publised": "2015",
+        "Distributor": "Raj Films",
+        "Cost": 21000000
+    },
+    {
+        "id": 13,
+        "name": "Malang",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Malang_film_poster.jpg",
+        "Production": "T-series",
+        "Published": "2020",
+        "Distributor": "Raj Films",
+        "Cost": 11000000
+    },
+    {
+        "id": 14,
+        "name": "panga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Panga_film_poster.jpg",
+        "Production": "Fox Star",
+        "Published": "2020",
+        "Distributor": "Fox Star",
+        "Cost": 41710000
+    },
+    {
+        "id": 15,
+        "name": "War",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/War_official_poster.jpg",
+        "Production": "Yash Raj",
+        "Publised": "2019",
+        "Distributor": "AA Films",
+        "Cost": 63000000
+    },
+    {
+        "id": 16,
+        "name": "Dabangg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Dabangg_3_poster.jpg",
+        "Production": "Salman Khan",
+        "Publised": "2019",
+        "Distributor": "Salman Khan",
+        "Cost": 31000000
+    },
+    {
+        "id": 17,
+        "name": "Secret SuperStar",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Secret_Superstar_-_Poster_3.jpg",
+        "Production": "Yash Raj",
+        "Published": "2017",
+        "Distributor": "Yash Raj",
+        "Cost": 154000000
+    },
+    {
+        "id": 18,
+        "name": "Tiger Zinda Hai",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Tiger_Zinda_Hai_poster.jpg",
+        "Production": "Yash Raj",
+        "Published": "2017",
+        "Distributor": "Aamir khan",
+        "Cost": 87320000
+    },
+    {
+        "id": 19,
+        "name": "Bajrangi Bhaijan",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/Bajrangi_Bhaijaan_Poster.jpg",
+        "Production": "T-series",
+        "Publised": "2015",
+        "Distributor": "T-series",
+        "Cost": 141000000
+    },
+    {
+        "id": 20,
+        "name": "Piku",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Piku.jpg",
+        "Production": "Yash Raj",
+        "Publised": "2015",
+        "Distributor": "Raj Films",
+        "Cost": 21000000
+    },
+    {
+        "id": 21,
+        "name": "Malang",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Malang_film_poster.jpg",
+        "Production": "T-series",
+        "Published": "2020",
+        "Distributor": "Raj Films",
+        "Cost": 11000000
+    },
+    {
+        "id": 22,
+        "name": "panga",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Panga_film_poster.jpg",
+        "Production": "Fox Star",
+        "Published": "2020",
+        "Distributor": "Fox Star",
+        "Cost": 41710000
+    },
+    {
+        "id": 23,
+        "name": "War",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/War_official_poster.jpg",
+        "Production": "Yash Raj",
+        "Publised": "2019",
+        "Distributor": "AA Films",
+        "Cost": 63000000
+    },
+    {
+        "id": 24,
+        "name": "Good Newwz",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Good_Newwz_film_poster.jpg",
+        "Production": "Dharma",
+        "Publised": "2019",
+        "Distributor": "Zee Studios",
+        "Cost": 42000000
+    }
+]

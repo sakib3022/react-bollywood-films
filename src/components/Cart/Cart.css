@@ -1,0 +1,17 @@
+.btn{
+    color: rgb(24, 27, 197);
+    text-align: center;
+    width: 100px;
+    height: 50px;
+}
+
+.btn-btn{
+    background-color: rgb(24, 27, 197);
+    color: white;
+    margin-left: 100px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+}
